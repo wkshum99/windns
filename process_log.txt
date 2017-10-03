@@ -1,0 +1,16 @@
+[0x7FFDC28B70E3] ANOMALY: use of REX.w is meaningless (default operand size is 64)
+2017-10-03 14:24:36,774 - DEBUG - @Recycle is not a zip file, ignored.
+2017-10-03 14:24:36,774 - DEBUG - hkdc01dns.zip is not a zip file, ignored.
+2017-10-03 14:24:36,774 - DEBUG - hkdc02dns.zip is not a zip file, ignored.
+2017-10-03 14:25:16,845 - DEBUG - @Recycle is not a zip file, ignored.
+2017-10-03 14:25:16,845 - DEBUG - hkdc01dns.zip is not a zip file, ignored.
+2017-10-03 14:25:16,845 - DEBUG - hkdc02dns.zip is not a zip file, ignored.
+2017-10-03 14:26:16,584 - DEBUG - @Recycle is not a zip file, ignored.
+2017-10-03 14:26:24,094 - DEBUG - hkdc01dns.log read in: 7.512096405029297 seconds
+2017-10-03 14:26:24,303 - DEBUG - changed to dataframe in: 0.20882487297058105 seconds
+2017-10-03 14:26:25,096 - DEBUG - data cleanup in: 0.7930591106414795 seconds
+2017-10-03 14:27:14,276 - DEBUG - output data to sql in: 49.18010973930359 seconds
+2017-10-03 14:27:43,621 - DEBUG - hkdc02dns.log read in: 78.52511596679688 seconds
+2017-10-03 14:27:44,428 - DEBUG - changed to dataframe in: 0.8061535358428955 seconds
+2017-10-03 14:27:47,277 - DEBUG - data cleanup in: 2.848649024963379 seconds
+2017-10-03 14:30:28,008 - DEBUG - output data to sql in: 160.7309467792511 seconds
